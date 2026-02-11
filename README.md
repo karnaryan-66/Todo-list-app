@@ -2,6 +2,8 @@
 
 A simple and clean To-Do List application built using **HTML, CSS, and JavaScript**.
 
+[Live demo--https://karnaryan-66.github.io/Todo-list-app/]
+
 ## 🚀 Features
 - Add tasks
 - Mark tasks as completed
