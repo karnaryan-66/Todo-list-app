@@ -14,7 +14,7 @@ A simple and clean To-Do List application built using **HTML, CSS, and JavaScrip
 - JavaScript
 
 ## 📸 Screenshot
-(Add screenshot here later)
+![App Screenshot] (screenshot.png)
 
 ## 📌 How to Run
 1. Download the project
